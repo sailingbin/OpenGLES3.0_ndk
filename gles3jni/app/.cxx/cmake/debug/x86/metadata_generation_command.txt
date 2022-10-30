@@ -1,0 +1,22 @@
+Executable : D:\Android\sdk\cmake\3.18.1\bin\cmake.exe
+arguments : 
+-HF:\OpenSource\ndk-samples\gles3jni\app\src\main\cpp
+-DCMAKE_FIND_ROOT_PATH=F:\OpenSource\ndk-samples\gles3jni\app\.cxx\cmake\debug\prefab\x86\prefab
+-DCMAKE_BUILD_TYPE=Debug
+-DCMAKE_TOOLCHAIN_FILE=D:\Android\sdk\ndk-bundle\build\cmake\android.toolchain.cmake
+-DANDROID_ABI=x86
+-DANDROID_NDK=D:\Android\sdk\ndk-bundle
+-DANDROID_PLATFORM=android-24
+-DCMAKE_ANDROID_ARCH_ABI=x86
+-DCMAKE_ANDROID_NDK=D:\Android\sdk\ndk-bundle
+-DCMAKE_EXPORT_COMPILE_COMMANDS=ON
+-DCMAKE_LIBRARY_OUTPUT_DIRECTORY=F:\OpenSource\ndk-samples\gles3jni\app\build\intermediates\cmake\debug\obj\x86
+-DCMAKE_RUNTIME_OUTPUT_DIRECTORY=F:\OpenSource\ndk-samples\gles3jni\app\build\intermediates\cmake\debug\obj\x86
+-DCMAKE_MAKE_PROGRAM=D:\Android\sdk\cmake\3.18.1\bin\ninja.exe
+-DCMAKE_SYSTEM_NAME=Android
+-DCMAKE_SYSTEM_VERSION=24
+-DANDROID_STL=c++_static
+-BF:\OpenSource\ndk-samples\gles3jni\app\.cxx\cmake\debug\x86
+-GNinja
+jvmArgs : 
+

@@ -1,0 +1,13 @@
+# ninja log v5
+0	303	685910208	CMakeFiles/gles3jni.dir/gles3jni.cpp.o	ed974a7dcbd0790d
+105	323	685910208	CMakeFiles/gles3jni.dir/RendererES3.cpp.o	5caaf0d40ec4f04d
+53	341	685910208	CMakeFiles/gles3jni.dir/RendererES2.cpp.o	7d9c53e49598a5af
+341	632	685910208	F:/OpenSource/ndk-samples/gles3jni/app/build/intermediates/cmake/debug/obj/arm64-v8a/libgles3jni.so	d570027e1cf26d86
+3	257	686079642	CMakeFiles/gles3jni.dir/gles3jni.cpp.o	ed974a7dcbd0790d
+257	1328	686079643	F:/OpenSource/ndk-samples/gles3jni/app/build/intermediates/cmake/debug/obj/arm64-v8a/libgles3jni.so	d570027e1cf26d86
+2	194	686079927	CMakeFiles/gles3jni.dir/RendererES3.cpp.o	5caaf0d40ec4f04d
+194	1900	686079929	F:/OpenSource/ndk-samples/gles3jni/app/build/intermediates/cmake/debug/obj/arm64-v8a/libgles3jni.so	d570027e1cf26d86
+2	187	686080153	CMakeFiles/gles3jni.dir/RendererES3.cpp.o	5caaf0d40ec4f04d
+187	412	686080153	F:/OpenSource/ndk-samples/gles3jni/app/build/intermediates/cmake/debug/obj/arm64-v8a/libgles3jni.so	d570027e1cf26d86
+21	931	688840803	CMakeFiles/gles3jni.dir/gles3jni.cpp.o	ed974a7dcbd0790d
+931	2127	688840804	F:/OpenSource/ndk-samples/gles3jni/app/build/intermediates/cmake/debug/obj/arm64-v8a/libgles3jni.so	d570027e1cf26d86
